@@ -1,2 +1,4 @@
 # inventory_system
-Here are simple inventory system i create for small business or startup
+Here are simple inventory system for small company and startup
+- complete backend
+- responsive to database
